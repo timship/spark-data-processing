@@ -1,2 +1,2 @@
 # spark-data-processing
-Batch data processing pipelines with Apache Spark
+Built batch data processing pipelines with Apache Spark, including complex aggregations, joins and analytical data marts.
